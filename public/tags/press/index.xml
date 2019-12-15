@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Press | Andi Peng</title>
+    <link>https://andipeng.com/tags/press/</link>
+      <atom:link href="https://andipeng.com/tags/press/index.xml" rel="self" type="application/rss+xml" />
+    <description>Press</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andipeng.com/img/icon-192.png</url>
+      <title>Press</title>
+      <link>https://andipeng.com/tags/press/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Intelligence Research and Ethics Community Calls for Standards in Criminal Justice Risk Assessment Tools</title>
+      <link>https://andipeng.com/project/partnership-on-ai-risk-assessment-report/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/project/partnership-on-ai-risk-assessment-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

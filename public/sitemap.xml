@@ -33,12 +33,12 @@
   </url>
   
   <url>
-    <loc>https://andipeng.com/publication_types/1/</loc>
+    <loc>https://andipeng.com/authors/admin/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andipeng.com/authors/andi-peng/</loc>
+    <loc>https://andipeng.com/publication_types/1/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://andipeng.com/authors/malina-simard-halm/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andipeng.com/authors/nebojsa-jojic/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -108,8 +113,23 @@
   </url>
   
   <url>
-    <loc>https://andipeng.com/authors/admin/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <loc>https://andipeng.com/publication/the-perils-of-objectivity-towards-a-normative-framework-for-fair-judicial-decision-making/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/publication_types/3/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/publication/human-machine-collaboration-for-fast-land-cover-mapping-workshop/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/tags/refereed-workshop/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,43 +173,168 @@
   </url>
   
   <url>
+    <loc>https://andipeng.com/project/partnership-on-ai-risk-assessment-report/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/tags/press/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/project/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://andipeng.com/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andipeng.com/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andipeng.com/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://andipeng.com/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://andipeng.com/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andipeng.com/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://andipeng.com/project/microsoft-ai-residency/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andipeng.com/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://andipeng.com/publication_types/7/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andipeng.com/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://andipeng.com/publication/an-integrated-machine-learning-approach-to-studying-terrorism/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/tags/non-archival/</loc>
+    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/project/hyperloop-forbes/</loc>
+    <lastmod>2017-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/project/hyperloop-the-guardian/</loc>
+    <lastmod>2017-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/andrew-oberlander/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/christopher-heath/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/colin-summers/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/publication/conceptual-feasibility-study-of-the-hyperloop-for-next-generation-transport/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/gazi-sakib/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/golda-nguyen/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/jeffrey-chin/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/justin-gray/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/kenneth-decker/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/nariman-sharifrazi/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/robert-falck/</loc>
+    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/publication_types/4/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/akshay-bery/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/christine-houle/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/publication/boko-haram-nigeria-governance-usip/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/joe-english/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/katherine-kirk/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/megan-wilson/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/reem-hussein/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/william-casey-king/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/yara-hattab/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andipeng.com/authors/yuhan-lim/</loc>
+    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
