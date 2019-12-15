@@ -32,6 +32,7 @@ summary: To appear at AAAI 2020
 
 tags:
 #- Source Themes
+- Refereed Conference
 featured: false
 
 links:

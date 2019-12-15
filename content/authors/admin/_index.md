@@ -75,4 +75,4 @@ I find myself growing ever more concerned that the world isn’t using AI safely
 
 I received a B.S. in Cognitive Science and B.A. in Global Affairs from Yale, where I spent four wonderful years with <a href="http://www.cs.yale.edu/homes/scaz/">Brian Scassellati</a>. I'll be starting my Ph.D. at <a href="https://www.csail.mit.edu/">MIT CSAIL</a>, in part funded by the <a href="https://www.truman.gov/">Truman Scholarship</a>, in Fall 2020.
 
-The best way to reach out is at andipeng[at]microsoft[dot]com.
+The best way to reach out is at andipeng [at] microsoft [dot] com.
