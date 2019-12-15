@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/andipeng/andipeng.github.io.git
 	branch = master
+[submodule "andipeng.github.io"]
+	path = andipeng.github.io
+	url = https://github.com/andipeng/andipeng.github.io.git
+	branch = master
