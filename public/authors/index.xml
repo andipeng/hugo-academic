@@ -5,12 +5,76 @@
     <link>https://andipeng.com/authors/</link>
       <atom:link href="https://andipeng.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://andipeng.com/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://andipeng.com/authors/</link>
     </image>
+    
+    <item>
+      <title>Andi Peng</title>
+      <link>https://andipeng.com/authors/andi-peng/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/authors/andi-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthony Ortiz</title>
+      <link>https://andipeng.com/authors/anthony-ortiz/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/authors/anthony-ortiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bistra Dilkina</title>
+      <link>https://andipeng.com/authors/bistra-dilkina/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/authors/bistra-dilkina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blake Elias</title>
+      <link>https://andipeng.com/authors/blake-elias/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/authors/blake-elias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caleb Robinson</title>
+      <link>https://andipeng.com/authors/caleb-robinson/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/authors/caleb-robinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Morris</title>
+      <link>https://andipeng.com/authors/dan-morris/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/authors/dan-morris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kolya Malkin</title>
+      <link>https://andipeng.com/authors/kolya-malkin/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/authors/kolya-malkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nebojsa Jojic</title>
+      <link>https://andipeng.com/authors/nebojsa-jojic/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://andipeng.com/authors/nebojsa-jojic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
