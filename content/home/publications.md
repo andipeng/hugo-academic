@@ -28,29 +28,21 @@ subtitle = ""
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+
+    # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-
+  
   [[content.filter_button]]
-    name = "See All"
+    name = "All"
     tag = "*"
-
-  [[content.filter_button]]
-    name = "Refereed Conference"
-    tag = "Refereed Conference"
   
   [[content.filter_button]]
-    name = "Refereed Workshop"
-    tag = "Refereed Workshop"
+    name = "Conference paper"
+    tag = "Conference paper"
   
   [[content.filter_button]]
-    name = "Technical Report"
-    tag = "Technical Report"
-
-  [[content.filter_button]]
-    name = "Non-Archival"
-    tag = "Non-Archival"
+    name = "Other"
+    tag = "Demo"
   
 [design]
   # Toggle between the various page layout types.
