@@ -180,4 +180,6 @@
 
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
 
+  {{ template "_internal/google_analytics.html" . }}
+
 </head>

@@ -25,6 +25,16 @@
   {{ $show_buttons = true }}
 {{ end }}
 
+{{/* Get summary. */}}
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if .Params.abstract }}
+  {{ $summary = .Params.abstract | markdownify | emojify }}
+{{ else if $item.Truncated }}
+  {{ $summary = $item.Summary }}
+{{ end }}
+
 <div class="view-list-item">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
   <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
@@ -46,6 +56,16 @@
     {{ partial "page_metadata_authors" $item }}
   </div>
   {{ end }}
+
+  {{ with $summary }}
+    <div class="article-metadata">
+      <i>
+        <span style="color:white">
+        {{ . | truncate 350 }}
+        </span>
+      </i>
+    </div>
+    {{ end }}
 
   {{ if $show_buttons }}
   <div class="btn-links">

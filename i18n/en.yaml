@@ -38,10 +38,10 @@
   translation: Preprint
 
 - id: btn_pdf
-  translation: PDF
+  translation: Paper
 
 - id: btn_cite
-  translation: Cite
+  translation: BibTeX
 
 - id: btn_slides
   translation: Slides
@@ -73,7 +73,7 @@
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: People Financially Invested in My Future
 
 - id: education
   translation: Education
@@ -149,16 +149,19 @@
   translation: Uncategorized
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Conference Paper
+
+- id: pub_workshop
+  translation: Workshop Paper
 
 - id: pub_journal
-  translation: Journal article
+  translation: Journal Article
 
 - id: pub_preprint
   translation: Preprint
 
 - id: pub_report
-  translation: Report
+  translation: Technical Report
 
 - id: pub_book
   translation: Book

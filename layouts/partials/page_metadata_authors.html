@@ -8,8 +8,15 @@
     {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
     {{- if gt $index 0 }}, {{ end -}}
     <span>
+      <!--
       {{- if and $profile_page $link_authors -}}
         <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
+      {{- else -}}
+        {{$name}}
+      {{- end -}}
+      -->
+      {{- if and $profile_page $link_authors -}}
+        {{$name}}
       {{- else -}}
         {{$name}}
       {{- end -}}

@@ -1,8 +1,8 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# This section displays recent publications from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
@@ -33,16 +33,24 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "All Papers"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Conference paper"
-    tag = "Conference paper"
+    name = "Journal"
+    tag = "Journal"
+
+  [[content.filter_button]]
+    name = "Conference"
+    tag = "Conference"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Workshop"
+    tag = "Workshop"
+
+  [[content.filter_button]]
+    name = "Non-Archival"
+    tag = "Non-Archival"
   
 [design]
   # Toggle between the various page layout types.
@@ -50,7 +58,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -78,4 +86,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ #[Filter publications]({{< ref "/publication/_index.md" >}})
 +++

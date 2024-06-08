@@ -12,7 +12,7 @@
   {{ end }}
 
   <p class="powered-by">
-    Andi Peng &middot;
+    &copy; Copyright &middot; Andi Peng &middot;
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} {{ end }}
 
     {{ if not (in (slice "docs" "updates") .Type) }}

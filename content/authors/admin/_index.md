@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Andi Peng
+#name: Andi Peng
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+# role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Microsoft Research
-  url: "https://www.microsoft.com/en-us/research/"
+#- name: MIT CSAIL
+#  url: "https://www.csail.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Microsoft Research
-
-interests:
-- Computational Cognition
-- Human-Centered AI
-- Decision-Making and Metareasoning
+bio: MIT CSAIL
 
 education:
   courses:
   - course: Ph.D. Computer Science
     institution: Massachusetts Institute of Technology
-    year: Entering Fall 2020
+    year: 2023 - 
+  - course: M.S. Computer Science
+    institution: Massachusetts Institute of Technology
+    year: 2023
   - course: B.S. Cognitive Science
     institution: Yale University
     year: 2018
@@ -37,23 +35,29 @@ education:
     institution: Yale University
     year: 2018
 
+interests:
+- Open Philanthropy
+- NSF Graduate Research Fellowship
+- Truman Scholarship
+- My parents
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=S63gb38AAAAJ&hl=en
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/TheAndiPenguin
-- icon: github
-  icon_pack: fab
-  link: https://github.com/andipeng
-- icon: envelope
-  icon_pack: fas
-  link: mailto:andipeng@mit.edu
+#social:
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?hl=en&user=S63gb38AAAAJ&view_op=list_works&sortby=pubdate
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/andipeng/
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/TheAndiPenguin
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/andipeng
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,10 +73,12 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am researching away at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/">Microsoft Research AI</a>, where I mostly hang out with <a href="https://www.ecekamar.com/">Ece Kamar</a>. I’m intrigued by how decisions are made, in both humans and machines. By formalizing the cognitive principles that underlie how we learn and reason, I build systems that collaborate with humans to solve computational tasks. I also work with <a href="https://www.microsoft.com/en-us/ai/ai-for-earth?activetab=pivot1%3aprimaryr6">AI for Earth</a>.
+I am a Member of Technical Staff at Anthropic and PhD student at MIT CSAIL advised by <a href="https://www.mit.edu/~jda/" >Jacob Andreas</a> and <a href="https://interactive.mit.edu/about/people/julie" >Julie Shah</a>. I've spent summers at the Boston Dynamics AI Institute, MIT-IBM Watson AI Lab, Facebook AI Research (FAIR), and before grad school, two years as an AI Resident at Microsoft Research. I did my undergrad at Yale, where I got my start in research with <a href="http://www.cs.yale.edu/homes/scaz/" >Brian Scassellati</a> and read a lot of dead philosophers.
 
-I find myself growing ever more concerned that the world isn’t using AI safely, fairly, or ethically. To that end, I've worked with <a href="https://www.nist.gov/director/vcat/jake-taylor-assistant-director-quantum-information-science-white-house-office-science">Jake Taylor</a> at the <a href="https://www.whitehouse.gov/ostp/">White House Office of Science and Technology Policy (OSTP)</a> and with the <a href="https://www.partnershiponai.org/">Partnership on AI</a> on understanding the impacts of technology. Our report on establishing standards for the deployment of criminal justice risk assessment tools can be found <a href="https://www.partnershiponai.org/artificial-intelligence-research-and-ethics-community-calls-for-standards-in-criminal-justice-risk-assessment-tools/">here</a>.
+I'm interested in building agents that learn representations from rich human knowledge, whether directly (e.g. from users) or through priors (e.g. from LMs). Currently, I'm thinking a lot about how to utilize pretrained models in conjunction with human feedback to interactively learn aligned representations/rewards.
 
-I received a B.S. in Cognitive Science and B.A. in Global Affairs from Yale, where I spent four wonderful years with <a href="http://www.cs.yale.edu/homes/scaz/">Brian Scassellati</a>. I'll be starting my Ph.D. at <a href="https://www.csail.mit.edu/">MIT CSAIL</a>, in part funded by the <a href="https://www.truman.gov/">Truman Scholarship</a>, in Fall 2020.
+A history buff at heart, I care deeply about working with non-academic communities to create safe, ethical, and equitable AI. I currently serve as a Special Government Employee for the <a href='https://www.diu.mil/' >Defense Innovation Unit (DIU)</a>. In a previous life, I worked at the <a href="https://www.whitehouse.gov/ostp/" >White House Office of Science and Technology Policy (OSTP)</a>,  <a href="https://www.nist.gov/" >National Institute of Standards and Technology (NIST)</a>, and <a href="https://schmidtfutures.com/" >Schmidt Futures</a>. I also serve on the advisory board of the <a href="https://jackson.yale.edu/" >Yale Jackson School of Global Affairs</a>, where I co-teach a course on AI for policymakers.
 
-The best way to reach me is andipeng [at] microsoft [dot] com. <a href=/img/JustMeAndMyCat.jpg>Cats are dope.</a>
+I love being outdoors, even in the brutal Boston winters. A current goal is to run a sub-3:00 marathon (<a href="https://marathonview.net/query/496351000014330618" >this is how I'm doing</a>). Reach out to chat about research, policy, or running! Preferred subject line: <a href=/img/LilShadyShad.jpg >Your cat is dope.</a>
+
+<a href="mailto:andipeng@mit.edu">email</a>&emsp;|&emsp;<a href="files/APengCV.pdf">cv<a>&emsp;|&emsp;<a href="https://scholar.google.com/citations?hl=en&user=S63gb38AAAAJ&view_op=list_works&sortby=pubdate">google scholar</a>&emsp;|&emsp;<a href="https://twitter.com/TheAndiPenguin">twitter</a>&emsp;|&emsp;<a href="https://www.linkedin.com/in/andipeng/">linkedin</a>
